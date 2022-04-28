@@ -31,5 +31,11 @@
 ![](https://github.com/meemknight/photos/blob/master/linux.png)
 ![](https://github.com/meemknight/photos/blob/master/unity.png)
 
-  
 </p>
+
+</br>
+
+ 
+  
+# [My Resume](https://meemknight.github.io/myResume/)
+  
