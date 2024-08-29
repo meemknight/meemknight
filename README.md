@@ -20,17 +20,17 @@
 ![](https://github.com/meemknight/photos/blob/master/python.png)
 ![](https://github.com/meemknight/photos/blob/master/github.png)
 ![](https://github.com/meemknight/photos/blob/master/photoshop.png)
+![](https://github.com/meemknight/photos/blob/master/davinci.png)
+![](https://github.com/meemknight/photos/blob/master/cmake.png)
 ![](https://github.com/meemknight/photos/blob/master/blender.png)
- 
+
 </br>
   
 <b>ENTRY-LEVEL<b>
 ---
-![](https://github.com/meemknight/photos/blob/master/cmake.png)
-![](https://github.com/meemknight/photos/blob/master/java.png)
+
 ![](https://github.com/meemknight/photos/blob/master/linux.png)
 ![](https://github.com/meemknight/photos/blob/master/unity.png)
-![](https://github.com/meemknight/photos/blob/master/davinci.png)
   
 </p>
 
